@@ -9,9 +9,9 @@ float velocity, radius, time;
 
 printf("Enter an orbital speed (km/h): ");
 scanf("%f", &velocity);
-printf("\nEnter an orbital radius (km): ");
+printf("Enter an orbital radius (km): ");
 scanf("%f", &radius);
-printf("\nEnter an orbital radius (km): ");
+printf("Enter an orbital radius (km): ");
 scanf("%f", &time);
 
 
