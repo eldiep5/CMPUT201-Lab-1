@@ -17,7 +17,7 @@ printf("\nEnter an orbital radius (km): ");
 scanf("%f", time);
 
 
-printf("\n%f, %f, %f", velocity, radius, time)
+printf("\n%f, %f, %f", velocity, radius, time);
 return
 
 
