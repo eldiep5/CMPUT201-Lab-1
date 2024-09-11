@@ -16,7 +16,7 @@ scanf("%f", &time);
 
 
 printf("\n%f, %f, %f", velocity, radius, time);
-return;
+return 0;
 
 
 }
